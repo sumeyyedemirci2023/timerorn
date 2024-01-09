@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\timerorn\timerorn\bin\Debug\timerorn.exe.config
+C:\Users\User\source\repos\timerorn\timerorn\bin\Debug\timerorn.exe
+C:\Users\User\source\repos\timerorn\timerorn\bin\Debug\timerorn.pdb
+C:\Users\User\source\repos\timerorn\timerorn\obj\Debug\timerorn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\timerorn\timerorn\obj\Debug\timerorn.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\timerorn\timerorn\obj\Debug\timerorn.Form1.resources
+C:\Users\User\source\repos\timerorn\timerorn\obj\Debug\timerorn.Properties.Resources.resources
+C:\Users\User\source\repos\timerorn\timerorn\obj\Debug\timerorn.csproj.GenerateResource.cache
+C:\Users\User\source\repos\timerorn\timerorn\obj\Debug\timerorn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\timerorn\timerorn\obj\Debug\timerorn.exe
+C:\Users\User\source\repos\timerorn\timerorn\obj\Debug\timerorn.pdb
